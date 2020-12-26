@@ -6,7 +6,7 @@
 удаленным репозиторием.
 
 **Ход работы:**
-Для начала создал аккаунт на сайте GitHub (https://github.com/YABEZDELNIK).<br>
+Для начала создал аккаунт на сайте GitHub (https://github.com/PavelSadalsky/).<br>
 На гитхабе сделал форк из https://github.com/Kurtyanik/LR6/ себе в личное хранилище.<br>
 Установил Git и настроил клиент, введя именя пользователя и email с помощью команд git config --global user.name "4917 Sadalsky P. D." и git config --global user.email pavel.sadalsky@yandex.ru<br>
 Клонировал удаленный репозиторий себе на компьютер с помощью команды git clone https://github.com/Kurtyanik/LR6/<br>
